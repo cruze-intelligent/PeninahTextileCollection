@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+
+# Local source uploads are kept out of the deploy repo.
+/Assets1/
+/Assets2/
+/Assets3/
+/Assets4/
+
+# Local server and editor noise
+.vscode/
+.idea/
+*.log
